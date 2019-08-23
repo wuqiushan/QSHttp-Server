@@ -1,4 +1,4 @@
-![image](https://github.com/SimonGitHub123/QSHttp-OC/blob/master/QSHttp-OC.png)
+![image](https://github.com/wuqiushan/QSHttp-Server/blob/master/QSHttp-Server.png)
 
 [![Build Status](https://travis-ci.org/shuzheng/zheng.svg?branch=master)](https://github.com/SimonGitHub123/QSHttp-OC)  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![language](https://img.shields.io/badge/language-java-green.svg)](1) 
 
